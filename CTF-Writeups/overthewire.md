@@ -6,11 +6,11 @@ If you're interested in playing the CTF, please visit - https://overthewire.org/
 
 There are several sections or topics to start with, and we'll explore them one by one.
 
+![image](https://github.com/sojib-bd/my-cybersecurity-journey/blob/main/CTF-Writeups/Screenshot_2024-11-27_12_59_00.png)
 
+Today we will explore the Bandit section. Before starting the games, please read the rules and information, which include basic guidelines and donation details. 
 
-Today we will exploit the Bandit section. Before jump into the games please read the rules and information which contains the basic rules and info of the donation. 
-
-The whole game is conducted through SSH(secure socket Layer) protocol, a protocol which is used to remotely connect with sever or host computer. If you want to know more about SSH Please free to google it. 
+The entire game uses SSH (Secure Shell) protocol, which allows you to connect remotely to a server or host computer. If you'd like to learn more about SSH, feel free to search online.
 
 Every level consist of 4 sections: 
 
